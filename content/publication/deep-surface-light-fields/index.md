@@ -10,6 +10,7 @@ authors:
   - Jie Lu
   - Shenghua Gao
   - Jingyi Yu
+doi: 10.1145/3203192
 publication: Proceedings of the ACM on Computer Graphics and Interactive Techniques
 publication_short: PACMCGIT
 abstract: A surface light field represents the radiance of rays originating from
@@ -30,5 +31,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T10:56:34.774Z
+date: 2018-11-22T11:01:35.401Z
 ---
