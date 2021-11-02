@@ -20,7 +20,7 @@ abstract: We present an end-to-end Neural Human Renderer (NHR) for dynamic human
   state-of-the-art neural and image-based rendering techniques, especially on
   hands, hair, nose, foot, etc.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured_hue26c766152b748bc7abd43279093f753_60835_720x0_resize_q90_lanczos.jpg
   focal_point: Smart
