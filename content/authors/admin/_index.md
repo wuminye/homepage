@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: KU Leuven
+    url: https://www.kuleuven.be/
 education:
   courses:
     - course: PhD in Artificial Intelligence
