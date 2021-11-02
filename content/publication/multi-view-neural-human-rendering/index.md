@@ -24,6 +24,6 @@ featured: false
 image:
   filename: featured_hue26c766152b748bc7abd43279093f753_60835_720x0_resize_q90_lanczos.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2021-11-02T10:42:09.568Z
 ---
