@@ -1,6 +1,7 @@
 ---
 title: Minye Wu
 role: Postdoctoral Researcher
+avatar_filename: avatar_hu28afea683787aa1b93c306010dafe481_121914_270x270_fill_lanczos_center_2.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
