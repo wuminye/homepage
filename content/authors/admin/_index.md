@@ -19,7 +19,7 @@ social:
     link: https://github.com/wuminye
 organizations:
   - name: KU Leuven
-    url: https://www.kuleuven.be/wieiswie/en/person/00135047
+    url: https://www.kuleuven.be/wieiswie/en/person/00149696
 education:
   courses:
     - course: "PhD in Communication and Information System "
